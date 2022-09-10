@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.HexagonalKafkaCache.HttpRestApiAdapter", "POC.HexagonalKafkaCache.HttpRestApiAdapter.csproj", "{59CCCAC0-E5DC-4EBB-B397-8F96FD5553CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.HexagonalKafkaCache.Core", "..\POC.HexagonalKafkaCache.Core\POC.HexagonalKafkaCache.Core.csproj", "{91AEB024-0D3F-4D6D-873A-D227C070E8FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.HexagonalKafkaCache.SqlDapperAdapter", "..\POC.HexagonalKafkaCache.SqlDapperAdapter\POC.HexagonalKafkaCache.SqlDapperAdapter.csproj", "{B7692BD0-E46F-437F-B0A7-62D7A346B921}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.HexagonalKafkaCache.KafkaAdapter", "..\POC.HexagonalKafkaCache.KafkaAdapter\POC.HexagonalKafkaCache.KafkaAdapter.csproj", "{C825B908-1E05-4756-BD89-F51EB540FF3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.HexagonalKafkaCache.UnitTests", "..\POC.HexagonalKafkaCache.UnitTests\POC.HexagonalKafkaCache.UnitTests.csproj", "{A54704A2-19FF-40FA-81C7-785FB36A67DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59CCCAC0-E5DC-4EBB-B397-8F96FD5553CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CCCAC0-E5DC-4EBB-B397-8F96FD5553CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CCCAC0-E5DC-4EBB-B397-8F96FD5553CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CCCAC0-E5DC-4EBB-B397-8F96FD5553CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AEB024-0D3F-4D6D-873A-D227C070E8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AEB024-0D3F-4D6D-873A-D227C070E8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AEB024-0D3F-4D6D-873A-D227C070E8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AEB024-0D3F-4D6D-873A-D227C070E8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7692BD0-E46F-437F-B0A7-62D7A346B921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7692BD0-E46F-437F-B0A7-62D7A346B921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7692BD0-E46F-437F-B0A7-62D7A346B921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7692BD0-E46F-437F-B0A7-62D7A346B921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C825B908-1E05-4756-BD89-F51EB540FF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C825B908-1E05-4756-BD89-F51EB540FF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C825B908-1E05-4756-BD89-F51EB540FF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C825B908-1E05-4756-BD89-F51EB540FF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54704A2-19FF-40FA-81C7-785FB36A67DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54704A2-19FF-40FA-81C7-785FB36A67DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54704A2-19FF-40FA-81C7-785FB36A67DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54704A2-19FF-40FA-81C7-785FB36A67DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BBCE6E-DCB0-4390-92D7-E93ABF435CA9}
+	EndGlobalSection
+EndGlobal

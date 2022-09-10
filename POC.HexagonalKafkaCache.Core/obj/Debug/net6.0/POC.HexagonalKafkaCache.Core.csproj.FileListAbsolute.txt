@@ -1,0 +1,12 @@
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.deps.json
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.csproj.AssemblyReference.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\refint\POC.HexagonalKafkaCache.Core.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\POC.HexagonalKafkaCache.Core.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.Core\obj\Debug\net6.0\ref\POC.HexagonalKafkaCache.Core.dll

@@ -1,0 +1,15 @@
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.deps.json
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.csproj.AssemblyReference.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.csproj.CopyComplete
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\refint\POC.HexagonalKafkaCache.KafkaAdapter.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.KafkaAdapter.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.KafkaAdapter\obj\Debug\net6.0\ref\POC.HexagonalKafkaCache.KafkaAdapter.dll

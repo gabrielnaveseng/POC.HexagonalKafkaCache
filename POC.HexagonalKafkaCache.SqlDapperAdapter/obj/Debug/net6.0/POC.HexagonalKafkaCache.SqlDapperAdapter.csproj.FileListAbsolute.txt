@@ -1,0 +1,15 @@
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.deps.json
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\bin\Debug\net6.0\POC.HexagonalKafkaCache.Core.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.csproj.AssemblyReference.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.AssemblyInfoInputs.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.AssemblyInfo.cs
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.csproj.CoreCompileInputs.cache
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.csproj.CopyComplete
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\refint\POC.HexagonalKafkaCache.SqlDapperAdapter.dll
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\POC.HexagonalKafkaCache.SqlDapperAdapter.pdb
+C:\Users\dti Digital\source\repos\POC.HexagonalKafkaCache.SqlDapperAdapter\obj\Debug\net6.0\ref\POC.HexagonalKafkaCache.SqlDapperAdapter.dll

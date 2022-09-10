@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k9EH9nhDkbI65PB+Z005eEANG/cP4EN9P5IfOnPlX3w=",
+  "Source": "POC.HexagonalKafkaCache.HttpRestApiAdapter",
+  "BasePath": "_content/POC.HexagonalKafkaCache.HttpRestApiAdapter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
